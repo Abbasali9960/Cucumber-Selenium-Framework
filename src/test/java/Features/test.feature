@@ -1,6 +1,5 @@
-Feature: Login Action
-Scenario: Successful Login with Valid Credentials
-	Given User is on Home Page
-	When User Navigate to LogIn Page
-	And User enters UserName and Password
-	Then Message displayed Login Successfully
+Feature: Launch Website
+Scenario: Successful Launch test website
+	Given Website is launch 
+	When  When enter Fistname "Tom" and Last name "Jerry"
+	Then Button is clicked

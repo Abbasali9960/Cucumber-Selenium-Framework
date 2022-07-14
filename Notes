@@ -1,0 +1,32 @@
+https://www.youtube.com/watch?v=xJrX_L-BrUI
+#NaturalPlugin
+#Maven-Archetype-QuickStart
+#BDDCucumber
+
+Maven Archetypes - 
+https://repo1.maven.org/maven2/archetype-catalog.xml
+
+Natural PlugIn - 
+http://rlogiacco.github.io/Natural
+
+
+Maven dependecies for pom.xml
+open https://mvnrepository.com/ and in search 
+
+webdrivermanager
+selenium-java
+junit
+cucumber-core
+cucumber-java
+cucumber-junit
+cucumber-testng
+cucumber-jvm-deps
+cucumber-reporting
+hamcrest-core
+gherkin
+cobertura
+poi
+poi-ooxml
+
+Do not forget to add extentreports-cucumber6-adapter
+Do not forget to add tools from com.sun
